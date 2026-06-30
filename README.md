@@ -1,5 +1,7 @@
 # 🌤️ AI Weather Assistant
 
+Live Link: https://cws-pydantic-ai-weather-agent-5vevzxumgguefke9d95obu.streamlit.app/
+
 An AI-powered Weather Assistant built using **Pydantic AI**, **Groq**, **Streamlit**, and the **OpenWeather API**.
 
 The application demonstrates how to build an AI agent with custom tools. Instead of relying only on an LLM's knowledge, the agent decides when to call a weather tool to retrieve real-time weather information before generating a natural language response.
